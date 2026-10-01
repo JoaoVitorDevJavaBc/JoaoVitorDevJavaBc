@@ -17,7 +17,7 @@ API RESTful de um sistema bancário desenvolvida para simular operações financ
 - **Tecnologias:** Java, Spring Boot, Spring Data JPA, MySQL.
 - *Venha conferir a lógica de consistência de saldo no código do Service!*
 
-### E-Commerce API (Privado - Em desenvolvimento)
+### E-Commerce API (Em desenvolvimento)
 Backend completo para uma plataforma de e-commerce com integração de checkout seguro.
 - **Tecnologias:** Java, Spring Boot, MySQL, Stripe API.
 
