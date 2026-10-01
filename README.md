@@ -2,12 +2,6 @@
 
 Sou um **Desenvolvedor Backend Java** focado na construção de aplicações robustas, APIs RESTful e persistência de dados. Atualmente, estou expandindo meus conhecimentos no ecossistema Spring e modelagem de bancos de dados relacionais.
 
-<p>
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="Spring Boot" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Stripe" />
-</p>
 
 ##  Tecnologias e Ferramentas
 - **Linguagem:** Java (Programação Orientada a Objetos)
